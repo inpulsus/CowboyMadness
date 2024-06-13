@@ -4,3 +4,5 @@ WASD to move. F to open chests. Shift for dash.
 Glowy icons can be bound to UI with Q/E/C! Non-glows can be picked up with F and are stackable.
 
 Feel free to edit and use.
+
+https://gd.games/inpulsus/cowboy-madness
